@@ -1,0 +1,29 @@
+[33mcommit 6909adb77d0c7cb2ba5464bc539238515048946d[m[33m ([m[1;36mHEAD -> [m[1;32mfront[m[33m)[m
+Author: ko-dai0102 <koudai.tanno@gmail.com>
+Date:   Thu Aug 24 15:58:16 2023 +0900
+
+    サイドバーとチャット画面ファイルの分割
+
+[33mcommit 37387597767eb71acbe40171cdfda9fad7e9c844[m
+Author: ko-dai0102 <koudai.tanno@gmail.com>
+Date:   Thu Aug 24 15:54:00 2023 +0900
+
+    要素サイズの調整
+
+[33mcommit eed6d183ac8f0274123b1add77813f7816549c9d[m
+Author: ko-dai0102 <koudai.tanno@gmail.com>
+Date:   Thu Aug 24 15:48:05 2023 +0900
+
+    リセットCSSの設定
+
+[33mcommit b30e5427fc602cfd5f6b3df6f8d6873486641fb4[m
+Author: ko-dai0102 <koudai.tanno@gmail.com>
+Date:   Thu Aug 24 15:44:45 2023 +0900
+
+    フロント実装の準備
+
+[33mcommit 47b805d47f883fa249123a2bbb77029edd14153d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmaster[m[33m)[m
+Author: ko-dai0102 <koudai.tanno@gmail.com>
+Date:   Thu Aug 24 14:50:22 2023 +0900
+
+    test
